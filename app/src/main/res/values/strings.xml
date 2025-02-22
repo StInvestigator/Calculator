@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Calculator</string>
     <string name="_0">0</string>
+    <string name="about_us">About us</string>
+    <string name="this_app_was_created_by_murashko_vladyslav">This app was created by Murashko Vladyslav</string>
+    <string name="back">Back</string>
 </resources>
